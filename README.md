@@ -29,6 +29,7 @@ Create a directory named "MyLab" on the desktop.
 ```
 mkdir %userprofile%\Desktop\MyLab
 ```
+![Screenshot from 2024-04-29 01-11-33](https://github.com/gururaghav2925/Windows-basic-commands-batchscript/assets/151489500/6de9f905-8445-4890-8c5f-ad8d0071e397)
 
 ![Screenshot from 2024-04-29 01-11-49](https://github.com/gururaghav2925/Windows-basic-commands-batchscript/assets/151489500/f0bf605d-0bf9-4173-bb7b-fc7d212dc3f7)
 
@@ -68,9 +69,11 @@ mkdir %userprofile%\Desktop\Backup
 
 copy MyFile.txt %userprofile%\Desktop\Backup
 ```
-![Screenshot from 2024-04-29 01-12-47](https://github.com/gururaghav2925/Windows-basic-commands-batchscript/assets/151489500/79a36b04-c55a-4c14-9278-556f8fc96843)
 
 ![Screenshot from 2024-04-29 01-12-23](https://github.com/gururaghav2925/Windows-basic-commands-batchscript/assets/151489500/627a6d92-09b2-495b-b843-d03e8cd56d52)
+
+
+![Screenshot from 2024-04-29 01-12-47](https://github.com/gururaghav2925/Windows-basic-commands-batchscript/assets/151489500/79a36b04-c55a-4c14-9278-556f8fc96843)
 
 
 ## COMMAND AND OUTPUT
