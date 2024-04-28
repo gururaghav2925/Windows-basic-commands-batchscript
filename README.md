@@ -45,7 +45,6 @@ cd %userprofile%\Desktop\MyLab
 
 ![Screenshot from 2024-04-29 01-11-57](https://github.com/gururaghav2925/Windows-basic-commands-batchscript/assets/151489500/6a804ed6-4bd9-4ab2-98ce-dcde064d15aa)
 
-![Screenshot from 2024-04-29 01-12-09](https://github.com/gururaghav2925/Windows-basic-commands-batchscript/assets/151489500/ecaacfdb-43bf-47ff-ae61-80760fecbd8f)
 
 
 
@@ -58,7 +57,8 @@ Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 dir %userprofile%\Desktop\MyLab
 ```
 
-![alt text](4.png)
+
+![Screenshot from 2024-04-29 01-12-09](https://github.com/gururaghav2925/Windows-basic-commands-batchscript/assets/151489500/ecaacfdb-43bf-47ff-ae61-80760fecbd8f)
 
 ## COMMAND AND OUTPUT
 
